@@ -1,2 +1,2 @@
-# Coursera-GraphSearch_SP_DS
-Solutions to the programming assignments 
+# Coursera Graph Search, Shortest Paths, and Data Structures
+C Solutions to the programming assignments 
